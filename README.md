@@ -54,7 +54,7 @@
 11.编码规范
 
 #体验试用
-1.新浪应用广场[爱分享](https://github.com/Logan676/JustShare)
+1.新浪应用广场[爱分享](http://app.weibo.com/detail/6Kzw5S?ref=appsearch#)
 
 2.木蚂蚁[爱分享](http://www.mumayi.com/android-275488.html)
 
